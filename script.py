@@ -46,4 +46,4 @@ object = Monkey(path, backup, max)
 
 while(True):
     object.ook()
-    
+    time.sleep(0.1
